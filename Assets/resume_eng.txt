@@ -1,8 +1,10 @@
 Retro Resume (2017)
 a game demo by Vinícius Naves Castanheira
-* STUDY *
+* Education *
 Incomplete Computer Science Barchelor at Universidade Federal de Lavras - 2010 to 2014
 Graduated System Analyst Technician at Universidade Norte do Paraná - 2014 to 2017
+* WORK EXPERIENCE *
+Programmer at Automatiza Tecnologia e Automação - 2013 to 2016
 * SKILLS *
 English Proficiency
 Relational Database (SQL Server)
