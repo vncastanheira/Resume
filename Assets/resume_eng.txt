@@ -1,0 +1,20 @@
+Retro Resume (2017)
+a game demo by Vinícius Naves Castanheira
+* STUDY *
+Incomplete Computer Science Barchelor at Universidade Federal de Lavras - 2010 to 2014
+Graduated System Analyst Technician at Universidade Norte do Paraná - 2014 to 2017
+* SKILLS *
+English Proficiency
+Relational Database (SQL Server)
+Intermediate C# Programming with Visual Studio environment familiarity
+* UNITY SKILLS*
+C# scripting / Unity API
+Component-based Pattern
+Assets Management
+Dynamic and Static Lighting
+Materials and Basic Shader Programming
+Rigidbodies, Collisions and Layers
+Services (Collab, Cloud Build, etc)
+
+Looking forward to be part of your team! 
+Thank you!

@@ -1,4 +1,4 @@
-﻿Shader "Custom/VHS"
+﻿Shader "Vinicius/VHS"
 {
 	Properties
 	{
