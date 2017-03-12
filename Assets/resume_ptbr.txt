@@ -1,2 +1,21 @@
 Retro Resume (2017)
-a game demo by Vin�cius Naves Castanheira
+uma demo por Vinícius Naves Castanheira
+* Educação *
+Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Universidade Norte do Paraná (2014 - 2017)
+* Trabalho *
+Programador C# em Automatiza Tecnologia e Automação - 2013 to 2016
+* Habilidades *
+Proeficiência em Inglês
+Banco de Dados Relacional (SQL Server)
+Programçaõ C# com familiaridade em Visual Studio
+* Habilidades em Unity *
+C# scripting / Unity API
+Component-based Pattern
+Gerenciamento de Assets
+Iluminação Estática e Dinâmica
+Materiais e Programação Básica com Shader
+Rigidbodies, Collisions, Layers
+Serviços (Collab, Cloud Build, etc)
+
+Espero poder fazer parte do seu time! 
+Muito Obrigado!

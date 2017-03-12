@@ -7,7 +7,6 @@ using UnityEngine.UI;
 public class InfoManager : MonoBehaviour
 {
     public Text rendererText;
-    public TextAsset sourceText;
 
     public float Delay = 3;
     float timer;
@@ -16,9 +15,12 @@ public class InfoManager : MonoBehaviour
     string currentLine;
     StringReader sReader;
 
+    string resume;
+
     void Start()
     {
-        sReader = new StringReader(sourceText.text);
+        resume = LanguageManager.Instance.language.Resume.text;
+        sReader = new StringReader(resume);
 
         timer = 1;
         StartCoroutine(Write());

@@ -5,12 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-
+    public bool Destroy = false;
 
     public void LoadScene(string sceneName)
     {
+        if (!Destroy)
         DontDestroyOnLoad(gameObject);
-        SceneManager.LoadScene(sceneName);
+            SceneManager.LoadScene(sceneName);
     }
     
     public void ReturnToMenu()
